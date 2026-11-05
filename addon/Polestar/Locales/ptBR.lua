@@ -584,6 +584,7 @@ L["Forgets recorded entries and runs (the server's own limit is not affected)."]
 L["Minimap button"] = "Botão do minimapa"
 L["A Polestar button on the edge of the minimap. Click to show or hide the guide, right-click for settings, drag to move it."] = "Um botão do Polestar na borda do minimapa. Clique para mostrar ou ocultar o guia, clique com o botão direito para as configurações, arraste para movê-lo."
 -- L["Forget"] = ""
+L["Minimap"] = "Minimapa"
 
 -- Maps/WorldMap.lua
 L["Player"] = "Jogador"
@@ -1798,7 +1799,6 @@ L["Lookup, the dungeon journal and rares: finding things in the world."] = "Cons
 L["When a rare shows up"] = "Quando um raro aparece"
 L["How rares are noticed"] = "Como os raros são detectados"
 L["History"] = "Histórico"
-L["Small conveniences: travel, invitations, merchants and trackers."] = "Pequenas conveniências: viagem, convites, mercadores e rastreadores."
 L["Status"] = "Status"
 L["Actions"] = "Ações"
 L["Start recording"] = "Começar a gravar"
@@ -1915,6 +1915,8 @@ L["Continue automatically"] = "Continuar automaticamente"
 -- L["%d KiB"] = ""
 -- L["%.1f MB"] = ""
 -- L["%d KB"] = ""
+L["Small conveniences: questing, travel, invitations, merchants, bags, trackers and the map."] = "Pequenas conveniências: missões, viagem, convites, mercadores, bolsas, rastreadores e o mapa."
+L["Did you mean:"] = "Você quis dizer:"
 
 -- Rares/Rares.lua
 L["Raid warning"] = "Aviso do raide"
@@ -2811,3 +2813,4 @@ L["Not now"] = "Agora não"
 -- L["The item the current step uses, or a quest item it collects, glows in your bags (and in Baganator)."] = "O item que a etapa atual usa, ou um item de missão que ela coleta, brilha nas suas bolsas (e no Baganator)."
 -- L["Sells Poor-quality items when a merchant opens and prints the total. Never sells anything else."] = "Vende itens de qualidade Inferior ao abrir um mercador e mostra o total. Nunca vende mais nada."
 -- L["Picks the only option of NPCs without quests. Hold Shift to read it."] = "Escolhe a única opção de PNJs sem missões. Segure Shift para ler."
+-- L["Small conveniences: travel, invitations, merchants and trackers."] = "Pequenas conveniências: viagem, convites, mercadores e rastreadores."

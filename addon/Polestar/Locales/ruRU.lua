@@ -584,6 +584,7 @@ L["Forgets recorded entries and runs (the server's own limit is not affected)."]
 L["Minimap button"] = "Кнопка у миникарты"
 L["A Polestar button on the edge of the minimap. Click to show or hide the guide, right-click for settings, drag to move it."] = "Кнопка Polestar на краю миникарты. Щелчок показывает или скрывает гайд, правый щелчок открывает настройки, перетаскивание перемещает ее."
 -- L["Forget"] = ""
+L["Minimap"] = "Миникарта"
 
 -- Maps/WorldMap.lua
 L["Player"] = "Игрок"
@@ -1798,7 +1799,6 @@ L["Lookup, the dungeon journal and rares: finding things in the world."] = "По
 L["When a rare shows up"] = "Когда появляется редкий"
 L["How rares are noticed"] = "Как замечать редких"
 L["History"] = "История"
-L["Small conveniences: travel, invitations, merchants and trackers."] = "Мелкие удобства: перемещения, приглашения, торговцы и трекеры."
 L["Status"] = "Состояние"
 L["Actions"] = "Действия"
 L["Start recording"] = "Начать запись"
@@ -1915,6 +1915,8 @@ L["Continue automatically"] = "Продолжать автоматически"
 -- L["%d KiB"] = ""
 -- L["%.1f MB"] = ""
 -- L["%d KB"] = ""
+L["Small conveniences: questing, travel, invitations, merchants, bags, trackers and the map."] = "Мелкие удобства: задания, перемещения, приглашения, торговцы, сумки, трекеры и карта."
+L["Did you mean:"] = "Возможно, вы искали:"
 
 -- Rares/Rares.lua
 L["Raid warning"] = "Предупреждение рейда"
@@ -2810,3 +2812,4 @@ L["Not now"] = "Не сейчас"
 -- L["The item the current step uses, or a quest item it collects, glows in your bags (and in Baganator)."] = "Предмет, который использует текущий шаг, или собираемый предмет задания светится в сумках (и в Baganator)."
 -- L["Sells Poor-quality items when a merchant opens and prints the total. Never sells anything else."] = "Продает предметы низкого качества при открытии торговца и выводит сумму. Ничего другого не продает."
 -- L["Picks the only option of NPCs without quests. Hold Shift to read it."] = "Выбирает единственный вариант у NPC без заданий. Удерживайте Shift, чтобы прочитать."
+-- L["Small conveniences: travel, invitations, merchants and trackers."] = "Мелкие удобства: перемещения, приглашения, торговцы и трекеры."

@@ -584,6 +584,7 @@ L["Forgets recorded entries and runs (the server's own limit is not affected)."]
 L["Minimap button"] = "小地图按钮"
 L["A Polestar button on the edge of the minimap. Click to show or hide the guide, right-click for settings, drag to move it."] = "小地图边缘的 Polestar 按钮。左键点击显示或隐藏指南，右键点击打开设置，拖动可移动。"
 -- L["Forget"] = ""
+L["Minimap"] = "小地图"
 
 -- Maps/WorldMap.lua
 L["Player"] = "玩家"
@@ -1798,7 +1799,6 @@ L["Lookup, the dungeon journal and rares: finding things in the world."] = "查�
 L["When a rare shows up"] = "稀有出现时"
 L["How rares are noticed"] = "如何发现稀有"
 L["History"] = "历史"
-L["Small conveniences: travel, invitations, merchants and trackers."] = "小便利：旅行、邀请、商人和追踪器。"
 L["Status"] = "状态"
 L["Actions"] = "操作"
 L["Start recording"] = "开始记录"
@@ -1915,6 +1915,8 @@ L["Continue automatically"] = "自动继续"
 -- L["%d KiB"] = ""
 -- L["%.1f MB"] = ""
 -- L["%d KB"] = ""
+L["Small conveniences: questing, travel, invitations, merchants, bags, trackers and the map."] = "小便利：任务、旅行、邀请、商人、背包、追踪器和地图。"
+L["Did you mean:"] = "你是不是要找："
 
 -- Rares/Rares.lua
 L["Raid warning"] = "团队通知"
@@ -2810,3 +2812,4 @@ L["Not now"] = "以后再说"
 -- L["The item the current step uses, or a quest item it collects, glows in your bags (and in Baganator)."] = "当前步骤要使用的物品，或要收集的任务物品，会在背包中发光（Baganator 中也是）。"
 -- L["Sells Poor-quality items when a merchant opens and prints the total. Never sells anything else."] = "打开商人时出售粗糙品质物品并显示总额。不会出售其他物品。"
 -- L["Picks the only option of NPCs without quests. Hold Shift to read it."] = "自动选择无任务 NPC 的唯一选项。按住 Shift 阅读。"
+-- L["Small conveniences: travel, invitations, merchants and trackers."] = "小便利：旅行、邀请、商人和追踪器。"

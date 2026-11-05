@@ -584,6 +584,7 @@ L["Forgets recorded entries and runs (the server's own limit is not affected)."]
 L["Minimap button"] = "미니맵 버튼"
 L["A Polestar button on the edge of the minimap. Click to show or hide the guide, right-click for settings, drag to move it."] = "미니맵 가장자리에 있는 Polestar 버튼입니다. 클릭하면 가이드를 표시하거나 숨기고, 우클릭하면 설정, 드래그하면 이동합니다."
 -- L["Forget"] = ""
+L["Minimap"] = "미니맵"
 
 -- Maps/WorldMap.lua
 L["Player"] = "플레이어"
@@ -1798,7 +1799,6 @@ L["Lookup, the dungeon journal and rares: finding things in the world."] = "찾�
 L["When a rare shows up"] = "희귀 몹이 나타나면"
 L["How rares are noticed"] = "희귀 몹 감지 방법"
 L["History"] = "기록"
-L["Small conveniences: travel, invitations, merchants and trackers."] = "작은 편의: 이동, 초대, 상인, 추적기."
 L["Status"] = "상태"
 L["Actions"] = "동작"
 L["Start recording"] = "기록 시작"
@@ -1915,6 +1915,8 @@ L["Continue automatically"] = "자동으로 계속"
 -- L["%d KiB"] = ""
 -- L["%.1f MB"] = ""
 -- L["%d KB"] = ""
+L["Small conveniences: questing, travel, invitations, merchants, bags, trackers and the map."] = "작은 편의: 퀘스트, 이동, 초대, 상인, 가방, 추적기, 지도."
+L["Did you mean:"] = "찾으시는 항목:"
 
 -- Rares/Rares.lua
 L["Raid warning"] = "공격대 경보"
@@ -2810,3 +2812,4 @@ L["Not now"] = "나중에"
 -- L["The item the current step uses, or a quest item it collects, glows in your bags (and in Baganator)."] = "현재 단계에서 사용하는 아이템이나 모으는 퀘스트 아이템이 가방에서 빛납니다 (Baganator 포함)."
 -- L["Sells Poor-quality items when a merchant opens and prints the total. Never sells anything else."] = "상인 창을 열면 하급 품질 아이템을 팔고 합계를 출력합니다. 다른 것은 절대 팔지 않습니다."
 -- L["Picks the only option of NPCs without quests. Hold Shift to read it."] = "퀘스트가 없는 NPC의 유일한 선택지를 고릅니다. 읽으려면 Shift를 누르십시오."
+-- L["Small conveniences: travel, invitations, merchants and trackers."] = "작은 편의: 이동, 초대, 상인, 추적기."
